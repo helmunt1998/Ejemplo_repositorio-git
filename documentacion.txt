@@ -1,0 +1,14 @@
+//Git es un sistema de control de versiones de software, que permite versionar
+programas y archivos a medida que se creen cambios. Git es open source
+//GitHub es un entorno web de nube que permite subir repositorios y codigo opern source
+a la nube o para compartirlo con otros usuarios. GitHub es software licenciado que tiene
+un modo gratis con funciones limitadas.
+
+//Para crear un un repositorio versionado con git, desde el bash o el cmd, se puede
+usar  " git init" sobre la carpeta donde se desee crear
+// Usar " git status" permite ver el estado de los archivos que git está haciendo seguimiento o no
+(Untracked files) serán los archivos que no se les está haciendo seguimiento.
+El resto estarán disponibles para hacer commit (guardar cambios en la base de datos creada por Git para el reposito)
+//Usar "git add <nombrearchivo>" permite agregar un archivo para que Git le haga seguimiento
+
+//en el editor vim, pulsar ESC + Z + Z para escapar. isando I se entra al modo de insersión, para poner mensajes.
